@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kryziukai/1.0.0": {
+        "dependencies": {
+          "IntelliTect.TestTools.Console": "0.7.1"
+        },
+        "runtime": {
+          "Kryziukai.dll": {}
+        }
+      },
+      "IntelliTect.TestTools.Console/0.7.1": {
+        "dependencies": {
+          "System.CodeDom": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/IntelliTect.TestTools.Console.dll": {
+            "assemblyVersion": "0.7.1.24",
+            "fileVersion": "0.7.1.24"
+          }
+        }
+      },
+      "System.CodeDom/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.CodeDom.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kryziukai/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntelliTect.TestTools.Console/0.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Dz8O1zanTFFXTIJGVfq/nuGsyPGQjg1dKjGGwkrD5o+bmOov2iZRnmuottBaGDNVu34gubgJ/4gX41s1GZxKQw==",
+      "path": "intellitect.testtools.console/0.7.1",
+      "hashPath": "intellitect.testtools.console.0.7.1.nupkg.sha512"
+    },
+    "System.CodeDom/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gqpR1EeXOuzNQWL7rOzmtdIz3CaXVjSQCiaGOs2ivjPwynKSJYm39X81fdlp7WuojZs/Z5t1k5ni7HtKQurhjw==",
+      "path": "system.codedom/4.5.0",
+      "hashPath": "system.codedom.4.5.0.nupkg.sha512"
+    }
+  }
+}
